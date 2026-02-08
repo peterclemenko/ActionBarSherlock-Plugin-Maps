@@ -76,7 +76,7 @@
 		<android.version>4.0.1.2</android.version>
 		<android.platform>14</android.platform>
 		<android.maps.version>14_r2</android.maps.version>
-		<abs.version>4.2.0</abs.version>
+		<abs.version>4.4.0</abs.version>
 
 		<android-maven.version>3.3.2</android-maven.version>
 	</properties>
